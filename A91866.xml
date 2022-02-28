@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robin Hood and his crew of souldiers. A comedy acted at Nottingham on the day of His saCRed [sic] Majesties corronation. Vivat Rex. The Actors names. Robin Hood, commander. Little John. William. Scadlocke. Souldiers. Messenger from the shieriffe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91866</idno>
+            <idno type="STC">Wing R1626</idno>
+            <idno type="STC">Thomason E1088_6</idno>
+            <idno type="STC">ESTC R208561</idno>
+            <idno type="EEBO-CITATION">99867503</idno>
+            <idno type="PROQUEST">99867503</idno>
+            <idno type="VID">169382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169382)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1088[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Robin Hood and his crew of souldiers. A comedy acted at Nottingham on the day of His saCRed [sic] Majesties corronation. Vivat Rex. The Actors names. Robin Hood, commander. Little John. William. Scadlocke. Souldiers. Messenger from the shieriffe.</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Davis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-Bp4s.</note>
+                  <note>The final two leaves are blank.</note>
+                  <note>Annotation on Thomason copy: "23 Aprill 1661".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169382:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>ROBIN HOOD AND HIS Crew of SOULDIERS.</p>
+            <p>A COMEDY Acted at <hi>Nottingham</hi> on the day of His ſaCRed Majeſties Corronation.</p>
+            <q xml:lang="lat">Vivat Rex.</q>
+            <list>
+               <head>The Actors names.</head>
+               <item>
+                  <hi>Robin Hood,</hi> Commander.</item>
+               <item>
+                  <list>
+                     <head>Souldiers.</head>
+                     <item>
+                        <hi>Little John.</hi>
+                     </item>
+                     <item>
+                        <hi>William.</hi>
+                     </item>
+                     <item>
+                        <hi>Scadlocke.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Meſſenger from the Shieriffe.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Davis.</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div>
+            <pb facs="tcp:169382:2"/>
+            <!-- PDF PAGE 30 -->
+            <pb facs="tcp:169382:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>
+               <hi>Robbin Hood</hi> and his crew of <hi>Souldiers.</hi>
+            </head>
+            <stage>A ſhout without the Bower.</stage>
+            <stage>Enter Hobin Hood, little John, William, Scadlocke, &amp;c.</stage>
+            <sp>
+               <lg>
+                  <l>WHence ſprings this general joy?</l>
+                  <l>What means this noiſe that makes Hea<g ref="char:EOLhyphen"/>vens</l>
+                  <l>Arch'd vault eccho? and the neighb'ring woods</l>
+                  <l>Return a dreadfull anſwer? With what uneven</l>
+                  <l>Meaſures the amaz'd Birds cut through the</l>
+                  <l>Trembling ayr? How the whole Forreſt ſhakes,</l>
+                  <l>As if with us 'twas ſenſible of wonder, and</l>
+                  <l>Aſtoniſhment. <stage>Shout again.</stage>
+                  </l>
+                  <l>Still the glad noiſe encreaſes</l>
+                  <l>And with it our fear and wonder; Thus when</l>
+                  <l>Unruly tempeſts force the weak banks,</l>
+                  <l>Rolling the foamy billows o're the yielding</l>
+                  <l>Strand, fear and amazement, confuſion and</l>
+                  <l>Diſtracting cares ſeize the neighbring villages,</l>
+                  <l>And thus it is with us; the guilty breaſt</l>
+                  <l>
+                     <pb facs="tcp:169382:3"/>
+                     <!-- PDF PAGE 31 -->
+Still pants and throbs, when others are at reſt.</l>
+                  <l>Look out and learn the cauſe, and in the mean while</l>
+                  <l>Each man betake himſelf to's armes.</l>
+               </lg>
+            </sp>
+            <stage>Exit little John</stage>
+            <sp>
+               <lg>
+                  <l>No danger unexpected to a mind</l>
+                  <l>Prepar'd to meet the worſt that it can finde.</l>
+               </lg>
+            </sp>
+            <stage>Enter little John and Shierifs Meſſenger.</stage>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Speak, what's the news?</p>
+            </sp>
+            <sp>
+               <speaker>Little Jo.</speaker>
+               <p>Gives and Fetters, Hatchets and Halters, ſtincking priſons, and the death of dogs is all we can expect.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Why, what's the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Jo.</speaker>
+               <p>Tis the Kings Coronation; and now the Shieriffe with a band of armed men, are march<g ref="char:EOLhyphen"/>ing to reduce us to loyalty, and the miſeries of an honeſt life; this Meſſenger here can tell you a rufull tale of obedience, that is expected.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Peace, and let him declare his errand.</p>
+            </sp>
+            <sp>
+               <speaker>Meſſen.</speaker>
+               <p>From my Maſter I am come to require and command your armes, and a chearfull and ready ſubmiſſion to his Majeſties Laws, with a promiſe of future obedience; and that forth<g ref="char:EOLhyphen"/>with you joyn with us to ſolemnize his happy Coronation, which is this day to be celebrated; this done, and the reſt of your lives running in
+<pb facs="tcp:169382:3"/>
+                  <!-- PDF PAGE 31 -->a ſwooth ſtream of loyalty and honeſt allegi<g ref="char:EOLhyphen"/>ance, I here bring pardon of all paſt miſdemea<g ref="char:EOLhyphen"/>nors; but otherwiſe, expect the miſeries of a ſudden deſtruction: this told you, I wait your anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>John.</speaker>
+               <p>Did not I tell you this? he talks of ſub<g ref="char:EOLhyphen"/>miſſion to government, and good Laws, as if we were the ſons of peace and idleneſs, or had bin ſuch Whay-blooded fools to live thus long honeſtly. And hath thy Maſter ſo little braine to think that we who know the ſweets of theft and rogery, to whom dangers are as pleaſant as dried ſuckets, who have been nurs'd &amp; fed fat with blood and ſlaughter, can be content to bear part of your generall joy, for that which takes from us the means of our beloved mirth.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Shall I change Veniſon for ſalt Cats, and make a bounteous meal, with the reverſion of a puddings skin? Or ſhall I bid adieu to Pheaſant and Partrige, and ſuch pleaſing Cates, and perſwade my hungry maw to ſatisfaction with the bruis of an Egge-ſhell? Or ſhall it be ſaid that thou O famous little <hi>John</hi> becomes the Attendant of a Tripe-woman?</p>
+            </sp>
+            <sp>
+               <speaker>John.</speaker>
+               <p>The very thought of it is dangerous, I have got the gout only with the apprehenſion,
+<pb facs="tcp:169382:4"/>
+                  <!-- PDF PAGE 32 -->I was born for action, but yet I cannot plow nor threſh, except it be mine enemy; and after all my fam'd exploits to hang for ſtealing ſheep 'twould grieve me. I hope our worthy Maſter will not credit the gingling words of pardon, and acts of grace, and fully all his former glories with a ſurviving repentance; for my part I had rather truſt my ſelf then any other with my life.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>If this geare takes then we may turn our Bows into Fiddle-ſticks, or ſtrangle our ſelves in the ſtrings, for the daies of warre and wan<g ref="char:EOLhyphen"/>tonneſs will be done. Now muſt I whimper like a breecht School-boy, and make a face as ſoure as an Apes when he eates Crabs; and then learn manners, and to make legs with the patience of a ſetting-dog; and cry, I forſooth, and no for<g ref="char:EOLhyphen"/>ſooth, like a Country wench at a Churching; <hi>Wakes</hi> and Bear-baitings, and a little Cudgel-play muſt be all our comfort, and then in ſome ſmoaky corner recount our paſt adventures, whilſt the good wives bleſſe themſelves at the relation. We muſt not dream of Veniſon, but be content like the Kings liege-people with cruſts and mouldy Cheeſe.</p>
+            </sp>
+            <sp>
+               <speaker>John.</speaker>
+               <p>Every brave ſoule is born a King; rule
+<pb facs="tcp:169382:4"/>
+                  <!-- PDF PAGE 32 -->and command o're the fearfull rabble, is natures ſtamp; courage and lofty thoughts are not ever confin'd to Thrones, nor ſtill th' appendages of an illuſtrious birth, but the thatcht Hovell or the ſimple Wood oft times turns forth a mind as fully fraught with Gallantry and true worthy as doth the marble Pallace; bounteous nature ties not her ſelfe to rules of State, or the hard Laws that cruell men impoſe; ſhee's free in all her gifts, as the Suns generall light, which when it firſt peepes o're the Eaſtern hills, and glads the widdow'd earth with its freſh beams, is not ſtraight ſnatcht into a Monarchs Court, and there impriſoned to guild his private luxu<g ref="char:EOLhyphen"/>rie, but ſpreads his welcome rayes, and cheares the poor Orphan and dejected Widdow, with the ſame heat it doth the Perſian Prince.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Why then ſhould the ſeverities of obe<g ref="char:EOLhyphen"/>dience, and the ſtrait niceties of Law ſhackle this Noble ſoul, whom nature meant not onely free but ſoeveraigne, thoſe ties that now by a boundleſs ſpreading force doe equally concern the brave and baſe; firſt chiefly toucht the vul<g ref="char:EOLhyphen"/>gar herd and throng of men, that maſſe of feare and folly, who therefore cloſed together, and with an eaſie fondneſſe ſuffered themſelves to be manacled by Lawes, becauſe diſtruſtful of
+<pb facs="tcp:169382:5"/>
+                  <!-- PDF PAGE 33 -->their own free ſtrength, and ſince being nur'ſt in idleneſſe and ſoft intemperance, have grown inamoured of their Chaines, and careſſed their ſlavery, and doat upon their hateful Bondage. But the bold daring Spirit hath in all times diſ<g ref="char:EOLhyphen"/>own'd this ſneaking lowneſſe, and with a com<g ref="char:EOLhyphen"/>mendable brav'ry challeng'd their darling Li<g ref="char:EOLhyphen"/>berty; and from th' inſulting Lawes reſcu'd their enſlaved honour: Thoſe famous Heroes in this gallant attempt wee've boldly followed, and ſhould we now ſit down, and whine a vain repentance; or tamely and coldly yield our hands and legs to fetters, and necks to the mercy of the haltar, the world might well eſteem us raſh and heady Men, but never bold or truly Valiant. No we have Swords, and Arms, and Lives equally engaged in our paſt account, and whileſt theſe Armes can wield our Swords, or our uncurdl'd blood give vigor to thoſe Arms, hopes of ſubmiſſion are as vain as is the ſtrange requeſt.</p>
+            </sp>
+            <sp>
+               <speaker>Meſſ.</speaker>
+               <p>Doubtleſs were the quality of actions the juſtice or injuſtice to be meaſured by the boldneſſe or fear of the undertakers, what now is your ſhame, would be your greateſt glory, and your Rebellion would be worthy of an
+<pb facs="tcp:169382:5"/>
+                  <!-- PDF PAGE 33 -->honourable memory to eternal Ages; for none have begun and manag'd ſuch wild deſigns with more unſhaken confidence, but ſince Laws were not made as you formerly imagine, to enſlave the Generous, but Curb the Proud and Vio<g ref="char:EOLhyphen"/>lent, th' ambitious and unruly nature, your diſ<g ref="char:EOLhyphen"/>obedience betrayes aboundleſſe pride, and de<g ref="char:EOLhyphen"/>ſires unfix'd as mad-mens thoughts, and reſtleſs as the Seas watry motion. That by the Laws which careful Princes make, we are commanded to do well and live vertuouſly, free both from giving and receiving injuries, is not to be e<g ref="char:EOLhyphen"/>ſteemed ſlav'ry but priviledge. And ſince we know the power of doing wrong is ſeldome un<g ref="char:EOLhyphen"/>uncompanyed with a will ſomeway anſwerable, it's our perfection to have that fairly chekt that ſo virtue and juſtice, the top and complement of our natures may have their due regard, which is the end of Lawes. Nor can a good or juſt Man, one who dares be virteous or honeſt (which is the trueſt gallantry) think it a loſs of freedom to wait and obey the commands of his Prince, eſpecially, when with his regality and Kingly power, are joyn'd the true embelliſh<g ref="char:EOLhyphen"/>ments of piety and real goodneſſe. A Prince of ſuch an influential ſweetneſſe, that every ac<g ref="char:EOLhyphen"/>count
+<pb facs="tcp:169382:6"/>
+                  <!-- PDF PAGE 34 -->teaches a vertue, and the meaneſt Subject by his great example grows up into an Heroe, as if his Princely Soul was grown his peoples Genious. A King ſo dear to Heaven as if he was it's onely care; His birth uſher'd in by a bright Star, and each minute of his Life link'd to the former by a miracle, whoſe preſervation was the amazement of his Enemies: and though the prayer, yet ſcarce the hope of his moſt hear<g ref="char:EOLhyphen"/>ty Subjects; One who hath ſuffer'd injuries be<g ref="char:EOLhyphen"/>yond example, yet of ſuch an unparalleld cha<g ref="char:EOLhyphen"/>rity, he pardons them beyond hope. Whoſe Virtue is as great as his Birth and his Goodneſs unlimitted as his Power, To whom the illuſtri<g ref="char:EOLhyphen"/>ous perſons former Ages brag'd of were no more comparable then the Nights Glimmering to the Noon-dayes Splendor.</p>
+               <p>This Great, this Gracious Prince is this day Crown'd, and offers Life, and Peace, and Ho<g ref="char:EOLhyphen"/>nour, if you will quit your wilde rebellions, and become what your birth challenges of you, nay what ever your boaſted gallantry expects of you that is) loyall ſubjects.</p>
+            </sp>
+            <sp>
+               <speaker>Rob.</speaker>
+               <p>Ha! whence is this ſudden change? That reſolution which but now was remoſeleſs as a Rock of Diamonds, and unyielding as the
+<pb facs="tcp:169382:6"/>
+                  <!-- PDF PAGE 34 -->hardned Steel, is now ſoft and flexible as a weak womans paſſions. I am quite another man; thaw'd into conſcience of my Crime &amp; Duty; melted into loyalty &amp; reſpect to vertue. What an harſh ſavage beaſt I was before, not differing from the f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery Lyon or the cruell Bear, but in my knowledge to doe greater ill, my ſtrength and eager raſhneſs vvas all my boaſt. How all my pride now is undermin'd? How am I dwarfd in mine own ſight? remov'd from that advan<g ref="char:EOLhyphen"/>tage ground my fancy ſet me on, and ſhrunk to mine own low pitch? How am I torn now from my ſelfe? ſure ſome power great and uncom<g ref="char:EOLhyphen"/>mon hath quite transform'd me, and conſum'd all that vvas bad and vicious in me. Methinks theſe men, companions in former ills, look like thoſe Grecians, th' enchanted cup transform'd: they've ſhapes of beaſts, rude, uncomely and very affrightfull; yet doe I ſee remoreſe bud in their bluſhing brows, as if with me they felt ſhame and true penitence for their fore-paſt Crimes. Let us all then joyne in the preſent ſence of our duty, accept the profer'd pardon,—and with one voice ſing,<lb/>
+With hearty Wiſhes, health unto our King.</p>
+            </sp>
+            <sp>
+               <pb facs="tcp:169382:7"/>
+               <!-- PDF PAGE 35 -->
+               <speaker>3. Voc.</speaker>
+               <lg>
+                  <l>Since Heaven with a liberal hand</l>
+                  <l>Doth choiceſt bleſſings fling,</l>
+                  <l>And hath (not only to our Land</l>
+                  <l>Reſtor'd but) Crown'd our <hi>KING.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let us to joy and generall mirth</l>
+                  <l>This glad day ſet aſide,</l>
+                  <l>Let the Neighb'ring Woods now Eccho forth</l>
+                  <l>Our ſhouts and Loyal Pride.</l>
+               </lg>
+               <lg>
+                  <l>May Halters that Mans fate attend</l>
+                  <l>That envies this dayes Glee</l>
+                  <l>And's name meet a perpetual brand</l>
+                  <l>For his Diſloyalty.</l>
+               </lg>
+            </sp>
+            <stage>Exeunt.</stage>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
